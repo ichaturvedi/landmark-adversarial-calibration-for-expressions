@@ -28,6 +28,7 @@ Example calibration for Happy emotion
 
 
 ![gold_original](https://user-images.githubusercontent.com/65399216/98349163-65678180-2065-11eb-93d8-507ca7b6d872.jpg)
-
+![sample_original](https://user-images.githubusercontent.com/65399216/98349488-c3946480-2065-11eb-8049-e47af297936f.jpg)
+![sample_calibrated](https://user-images.githubusercontent.com/65399216/98349500-c727eb80-2065-11eb-96c4-01cc3056e3bd.jpg)
 
 
