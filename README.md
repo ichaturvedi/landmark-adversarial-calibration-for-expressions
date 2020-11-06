@@ -23,7 +23,7 @@ Calibrate an emotion using SVD<br>
 - targetface is a low intensity emotional face
 - targetland contains landmarks for targetface
 
-Example calibration for Happy emotion. The first face is the Gold standard. The second face is the target ( without(red) and with(green) calibration)<br>
+Example calibration for Happy emotion. The first face is the Gold standard. The second face is the target ( without(red) and with(green) calibration)<br><br>
 ![gold_original](https://user-images.githubusercontent.com/65399216/98349844-39003500-2066-11eb-9504-8c947c433e5b.jpg)
 ![sample_original](https://user-images.githubusercontent.com/65399216/98349855-3c93bc00-2066-11eb-95a1-d2cdd9c0ce7b.jpg)
 ![sample_calibrated](https://user-images.githubusercontent.com/65399216/98349863-3f8eac80-2066-11eb-96d6-beebc46bb690.jpg)
