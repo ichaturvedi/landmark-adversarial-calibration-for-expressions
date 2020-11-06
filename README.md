@@ -26,6 +26,8 @@ Calibrate an emotion using SVD<br>
 Example calibration for Happy emotion
 
 
-![gold_original](https://user-images.githubusercontent.com/65399216/98348784-ebcf9380-2064-11eb-9900-39304266ee6e.jpg)
-![sample_original](https://user-images.githubusercontent.com/65399216/98348801-ef631a80-2064-11eb-9274-2b778e41041c.jpg)
-![sample_calibrated](https://user-images.githubusercontent.com/65399216/98348816-f2f6a180-2064-11eb-9ae0-940887467ff1.jpg)
+
+![gold_original](https://user-images.githubusercontent.com/65399216/98349163-65678180-2065-11eb-93d8-507ca7b6d872.jpg)
+
+
+
