@@ -13,3 +13,14 @@ Extract the landmarks<br>
 *python facial_landmarks.py -p shape_predictor_68_face_landmarks.dat -i emotion1.jpg*
 - p is pretrained detector (available at https://github.com/AKSHAYUBHAT/TensorFace/blob/master/openface/models/dlib/shape_predictor_68_face_landmarks.dat)
 - i is input face image
+
+Calibration
+---
+Calibrate an emotion using SVD<br>
+*[par_x, par_y] = calibrate(goldface, goldland, targetface, targetland)*
+- goldface is a high intensity emotional face
+- goldland contains landmarks for goldface
+- targetface is a low intensity emotional face
+- targetland contains landmarks for targetface
+
+
