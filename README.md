@@ -23,7 +23,7 @@ Calibrate an emotion using SVD<br>
 - targetface is a low intensity emotional face
 - targetland contains landmarks for targetface
 
-![gold_original](https://user-images.githubusercontent.com/65399216/98348335-53391380-2064-11eb-835e-e2567e53705f.jpg)
-![sample_original](https://user-images.githubusercontent.com/65399216/98348352-58965e00-2064-11eb-94fa-571821ccf839.jpg)
-![sample_calibrated](https://user-images.githubusercontent.com/65399216/98348360-5c29e500-2064-11eb-8793-6f84d6e41240.jpg)
+![gold_original](https://user-images.githubusercontent.com/65399216/98348335-53391380-2064-11eb-835e-e2567e53705f.jpg = 100x100)
+![sample_original](https://user-images.githubusercontent.com/65399216/98348352-58965e00-2064-11eb-94fa-571821ccf839.jpg = 100x100)
+![sample_calibrated](https://user-images.githubusercontent.com/65399216/98348360-5c29e500-2064-11eb-8793-6f84d6e41240.jpg = 100x100)
 
