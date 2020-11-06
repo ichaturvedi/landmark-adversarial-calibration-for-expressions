@@ -11,5 +11,5 @@ Facial Landmarks
 ---
 Extract the landmarks<br>
 *python facial_landmarks.py -p shape_predictor_68_face_landmarks.dat -i emotion1.jpg*
-- p is pretrained detector
+- p is pretrained detector (available at https://github.com/AKSHAYUBHAT/TensorFace/blob/master/openface/models/dlib/shape_predictor_68_face_landmarks.dat)
 - i is input face image
