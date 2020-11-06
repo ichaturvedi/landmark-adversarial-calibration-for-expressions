@@ -6,3 +6,10 @@ Requirements
 ---
 This code is based on the Deepwalk code found at:
 https://github.com/MayankSingal/PyTorch-Pixel-Level-Domain-Transfer
+
+Facial Landmarks
+---
+Extract the landmark<br>
+*python python facial_landmarks.py -p shape_predictor_68_face_landmarks.dat -i emotion1.jpg*
+- p is pretrained detector
+- i input face image
