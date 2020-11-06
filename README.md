@@ -4,7 +4,7 @@ This code implements the model discussed in Landmark Calibration for Facial Expr
 
 Requirements
 ---
-This code is based on the Deepwalk code found at:
+This code is based on the Pixel Level Translation code found at:
 https://github.com/MayankSingal/PyTorch-Pixel-Level-Domain-Transfer
 
 Facial Landmarks
