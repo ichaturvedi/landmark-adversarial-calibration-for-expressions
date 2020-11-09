@@ -45,5 +45,8 @@ Train the landmark to face GAN:<br>
 - epochs is number of iterations
 - modeldir is directory to store models
 
+Testing
+---
+For Testing we use the traditional CNN model that is trained using generated high intensity images !
 
 
