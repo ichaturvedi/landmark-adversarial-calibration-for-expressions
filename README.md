@@ -30,6 +30,12 @@ Example calibration for Happy emotion. The first face is the Gold standard. The 
 
 Landmark to Face GAN
 ---
-Create paired training data PID(idx)\_CLEAN0\_IID(idx2).jpg and PID(idx)\_CLEAN0_IID(idx2).jpg
+Create paired training data: PID(idx)\_CLEAN0\_IID(idx2).jpg and PID(idx)\_CLEAN1_IID(idx2+1).jpg
+- idx is person id
+- CLEAN0 is landmark
+- CLEAN1 is face
+- idx2 is optional image counter
+
+
 
 
