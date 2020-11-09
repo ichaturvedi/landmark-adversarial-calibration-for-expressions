@@ -38,6 +38,12 @@ Create paired training data: PID(idx)\_CLEAN0\_IID(idx2).jpg and PID(idx)\_CLEAN
 
 ![PID1_CLEAN0_IID2](https://user-images.githubusercontent.com/65399216/98509135-69d1ab80-22ac-11eb-903b-1dd605e52877.jpg)
 ![PID1_CLEAN1_IID1](https://user-images.githubusercontent.com/65399216/98509161-7229e680-22ac-11eb-938d-0c020568deea.jpg)
+<br>
+Train the landmark to face GAN:<br>
+*python train.py datadir epochs modeldir*
+- datadir is directory of training paired images
+- epochs is number of iterations
+- modeldir is directory to store models
 
 
 
