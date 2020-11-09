@@ -28,5 +28,8 @@ Example calibration for Happy emotion. The first face is the Gold standard. The 
 ![sample_original](https://user-images.githubusercontent.com/65399216/98350943-bed0b000-2067-11eb-9ba4-b993e6f61b99.jpg)
 ![sample_calibrated](https://user-images.githubusercontent.com/65399216/98350955-c1cba080-2067-11eb-84f1-16dc357b8a3a.jpg)
 
+Landmark to Face GAN
+---
+Create paired training data PID(idx)\_CLEAN0\_IID(idx2).jpg and PID(idx)\_CLEAN0_IID(idx2).jpg
 
 
