@@ -50,3 +50,4 @@ Testing
 For Testing we use the traditional CNN model that is trained using generated high intensity images !
 
 
+Presentation : https://youtu.be/wTeku_xW9UE
