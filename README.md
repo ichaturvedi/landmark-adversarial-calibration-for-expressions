@@ -51,3 +51,5 @@ For Testing we use the traditional CNN model that is trained using generated hig
 
 
 Presentation : https://youtu.be/wTeku_xW9UE
+
+Paper Link : https://link.springer.com/article/10.1007/s11760-021-01943-0
